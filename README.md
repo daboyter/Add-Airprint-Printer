@@ -1,4 +1,4 @@
-# Add a an AirPrint Printer via CLI
+# Add an AirPrint Printer via CLI
 
 Replace "printerHostName" with the hostname of the printer you'd like to add. I use this with the Execute Command option in the Files and Processes pane in Jamf to create Self Service printer policies for my Mac relevant printers.
 
